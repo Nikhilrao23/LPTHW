@@ -1,0 +1,18 @@
+[
+  {
+    "config": {
+      "upgrade_popup_button_title_accept": "Update",
+      "ios_upgrade_popup_link": "https://itunes.apple.com/us/app/appName/id795534014?mt=8",
+      "android_upgrade_popup_link": "market://details?id=com.gpshopper.lanebryant",
+      "upgrade_popup_title": "We've updated our app",
+      "upgrade_popup_body": "You should update your app",
+      "forced_upgrade_popup_body": "Tap UPDATE to install the latest version",
+      "forced_upgrade_popup_title": "Update required",
+      "ios_latest_app_version": "10.0",
+      "android_latest_app_version": "10.0.0",
+      "upgrade_popup_button_title_decline": "Dismiss",
+      "ios_minimum_app_version": "2.0.0",
+      "android_minimum_app_version": "2.0.1"
+    }
+  }
+]
